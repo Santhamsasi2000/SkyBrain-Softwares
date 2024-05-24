@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/SkyBrain-Softwares/static/css/main.f855e6bc.css",
-    "main.js": "/SkyBrain-Softwares/static/js/main.5eecc196.js",
+    "main.css": "/SkyBrain-Softwares/static/css/main.f5ecac5b.css",
+    "main.js": "/SkyBrain-Softwares/static/js/main.80819415.js",
     "static/js/453.715f0397.chunk.js": "/SkyBrain-Softwares/static/js/453.715f0397.chunk.js",
-    "static/media/logo.svg": "/SkyBrain-Softwares/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/sasikumar.JPG": "/SkyBrain-Softwares/static/media/sasikumar.f68e5e54d322637eeff2.JPG",
+    "static/media/Rohit-Designer.jpg": "/SkyBrain-Softwares/static/media/Rohit-Designer.c68a0a806f3f27c7d6a4.jpg",
+    "static/media/banner.jpg": "/SkyBrain-Softwares/static/media/banner.047903fb0c7860d2e5c5.jpg",
+    "static/media/ux-ui-planning.png": "/SkyBrain-Softwares/static/media/ux-ui-planning.3b44addb0c6200b24b35.png",
+    "static/media/webdevelop.png": "/SkyBrain-Softwares/static/media/webdevelop.fa3f6e3d53b5cce7e03c.png",
+    "static/media/service.png": "/SkyBrain-Softwares/static/media/service.15f227b1c863dc5cb120.png",
+    "static/media/Ashwin-Resume.pdf": "/SkyBrain-Softwares/static/media/Ashwin-Resume.d0566e40a2adf99a6e6f.pdf",
+    "static/media/websiteplanning.png": "/SkyBrain-Softwares/static/media/websiteplanning.3db24c7a10216300dd0b.png",
+    "static/media/No-Image002.jpg": "/SkyBrain-Softwares/static/media/No-Image002.4b75e340903e4353ec23.jpg",
+    "static/media/webdevelopment.png": "/SkyBrain-Softwares/static/media/webdevelopment.c15616b395d4a6da6859.png",
+    "static/media/sasikumar-resume.pdf": "/SkyBrain-Softwares/static/media/sasikumar-resume.818c6100510d66159290.pdf",
     "index.html": "/SkyBrain-Softwares/index.html",
-    "main.f855e6bc.css.map": "/SkyBrain-Softwares/static/css/main.f855e6bc.css.map",
-    "main.5eecc196.js.map": "/SkyBrain-Softwares/static/js/main.5eecc196.js.map",
+    "main.f5ecac5b.css.map": "/SkyBrain-Softwares/static/css/main.f5ecac5b.css.map",
+    "main.80819415.js.map": "/SkyBrain-Softwares/static/js/main.80819415.js.map",
     "453.715f0397.chunk.js.map": "/SkyBrain-Softwares/static/js/453.715f0397.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5eecc196.js"
+    "static/css/main.f5ecac5b.css",
+    "static/js/main.80819415.js"
   ]
 }
